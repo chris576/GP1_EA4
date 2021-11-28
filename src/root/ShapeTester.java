@@ -7,10 +7,6 @@ import java.util.List;
  *
  * @author Christopher Hübner
  * @version 1.0.0
- * @MessageToDozent I know that some implementations do not meet the exact implementation requirements in the api and
- * the task. But I develop Java Software for now 3 years. I thought this approach might be a little better, little more
- * flexible when extended, and a lot more challanging to implement. I want to thank you for this basic but challanging
- * task. Within the last 6 hours I had the chance to fetch out a lot of what I have learned within my last apprenticeship.
  */
 public class ShapeTester {
 
